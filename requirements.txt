@@ -1,0 +1,12 @@
+notebook
+numpy
+pandas
+networkx
+matplotlib
+dateparser
+datetime
+gensim
+deep_translator
+ipykernel
+scikit-learn
+ntlk
