@@ -4,7 +4,7 @@
 
 ## The Project
 
-Job Hop Net started as a project at university, with the idea to explore the information publicly available on professional networks and the useful information that can be extracted from it. A full report of the study can be found in _job-hop-net-report.pdf_, source code and data in the _code_ and _data_ folders respectively. Due to the small size of the raw dataset, that is not publicly available as, despite anonymization, it is theoretically still possible to identify a person from their career path; only the aggregated job-hop network data is available.
+Job Hop Net started as a project at university, with the idea to explore the information publicly available on professional networks and the useful insights that can be extracted from it. A full report of the study can be found in _job-hop-net-report.pdf_, source code and data in the _code_ and _data_ folders respectively. Due to the small size of the raw dataset, that is not publicly available as, despite anonymization, it is theoretically possible to identify a person from their career path; only the aggregated job-hop network data is available.
 
 ## Future of the project
 
